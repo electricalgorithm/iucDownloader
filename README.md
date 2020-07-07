@@ -7,7 +7,7 @@ ders dökümanlarını istemeniz gerekmektedir.
 
 Program 
 ```bash
-python3 iucDownloader.py
+python3 iucServerDownloader.py
 ```
 şeklinde çalışıtırılır. Bayraklama sistemi yoktur, yaparsanız çok şükela olur.
 
