@@ -11,8 +11,8 @@
 # ulaşabilir ve kaldırmamı talep edebilir, direk
 # de kaldırırım zaten. Çok da önemli değil.
 # Ben sadece POST metotu ile bölüm doğrulama
-# olmadan döküman istendiğini gördüğümde Bilgisayar
-# bölümün derslerini almak için bu programı yazmıştım.
+# olmadan döküman istendiğini gördüğümde kendimle
+# yarışa girmek için bu programı yazmıştım.
 # Alengirli bir amacım yoktu.
 # --------------------o--------------------------
 # Umarım daha güvenli yeni bir sistem ile İÜC kendini 
