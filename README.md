@@ -1,6 +1,8 @@
 # iucDownloader
 İstanbul Üniversitesi - Cerrahpaşa Döküman İndirme/Bulma Programı
 
+> Ön Not: Programın çalışması için AKSİS'e giriş yapabilmeniz ve sistemin size verdiği çerezleri kopyalamanız gerekmektedir. Bundandır ki üniversite öğrencisi veya personeli dışında erişim imkanı yoktur.
+
 Program Python ile yazılmıştır, tarafımca belirli aralıktaki ders kodları denenmiş ve kodda görünen klasörler oluşturulmuştur. Hangi dersin dökümanları olduğunu
 isterseniz oradan bakaabilirsiniz. Ancak OBS sistemi tarafından verilen linkler geçerliliğini yitirmektedir - yani dersi indirmeden önce yeniden program üzerinden
 ders dökümanlarını istemeniz gerekmektedir.
@@ -33,13 +35,10 @@ HTML olarak depo etmek ise bana çok makul göründü, tahminen HTML'i açacağ�
 indirebileceksiniz. Daha öncede söylediğim gibi **linkler bir süre sonra zaman aşımına uğruyor, dersin dökümanlarını indirecekseniz çok bekletmeden indirin.**
 
 ## Ahlaki ve Hukuki Boyut
-Açıkçası hukuki boyutundan bihaberim. Bu bir güvenlik zaafiyeti olarak değerlendirilebilir mi, emin değilim. Bu metni yazmamdan ertesi gün hem rektörlüğe hem bilgi
-işlem'e hem de bilgisayar mühendisliği bölümüne bu durumu ve kaynak kodu göndereceğim - belki bilgisar mühendisliği bölümüne geçrirler beni süpriz olarak :D) 
-Eğer isterlerse bu GitHub reposunu da anında kaldıracağım, burada yanlış anlaşılma olmasın. Akademik etik anlamıda bu durumu doğru bulmuyorum. Yani hazırlanmış (
-veya bazı hocaların da dökümanlarını görüdüğümüz üzere çalıntı) belgeler o dersin hocasına aittir, izinsiz indirmek doğru olmaz. Bunun bilincinde programı 
+Açıkçası hukuki boyutundan bihaberim. Bu bir güvenlik zaafiyeti olarak değerlendirilebilir mi, emin değilim. Bu metni yazmamdan ertesi gün hem rektörlüğe hem bilgi işlem'e hem de bilgisayar mühendisliği bölümüne bu durumu ve kaynak kodu göndereceğim - belki bilgisar mühendisliği bölümüne geçrirler beni süpriz olarak :D. 
+Eğer isterlerse bu GitHub reposunu da anında kaldıracağım, burada yanlış anlaşılma olmasın. Akademik etik anlamıda bu durumu doğru bulmuyorum. Yani hazırlanmış (veya bazı hocaların da dökümanlarını görüdüğümüz üzere çalıntı) belgeler o dersin hocasına aittir, izinsiz indirmek doğru olmaz. Bunun bilincinde programı 
 kullanmalısınız. Ben sadece kodunu yazdım ve gösterdim açığı, dosyaları indirmek sizin sorumluluğunuzdadır.
 
 ## Acı Gerçek
-Acı gerçek şu ki, bazı bölümlerin COVID19 sürecinde nasıl rezalet bir eğitim aldığının göstergesi oldu bu olay. Hakkını vermek gerek, en çok dökümana sahip bölüm
-benim de bölümüm olan EEM bölümüydü - tıp, veterinerlik dışında sanırım. Ayrıca da şunu belirtmeliyim, eğer dersin dökümanları yoksa bir diğer ihtimal MERGEN BTK'da
-öğrencilere eğitim vermeleri olabilir.
+Acı gerçek şu ki, bazı bölümlerin COVID19 sürecinde nasıl kötü bir eğitim aldığının göstergesi oldu bu olay. Hakkını vermek gerek, en çok dökümana sahip bölüm
+benim de bölümüm olan EEM bölümüydü - tıp, veterinerlik dışında sanırım. Ayrıca da şunu belirtmeliyim, eğer dersin dökümanları yoksa bir diğer ihtimal MERGEN BTK'daöğrencilere eğitim vermeleri olabilir.
