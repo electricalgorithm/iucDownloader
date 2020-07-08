@@ -3,8 +3,7 @@
 
 > Ön Not: Programın çalışması için AKSİS'e giriş yapabilmeniz ve sistemin size verdiği çerezleri kopyalamanız gerekmektedir. Bundandır ki üniversite öğrencisi veya personeli dışında erişim imkanı yoktur.
 
-Program Python ile yazılmıştır, tarafımca belirli aralıktaki ders kodları denenmiş ve kodda görünen klasörler oluşturulmuştur. Hangi dersin dökümanları olduğunu
-isterseniz oradan bakaabilirsiniz. Ancak OBS sistemi tarafından verilen linkler geçerliliğini yitirmektedir - yani dersi indirmeden önce yeniden program üzerinden
+Program Python ile yazılmıştır, tarafımca belirli aralıktaki ders kodları denenmiş ve programın çalıştığını kanıtlayan kodda görünen klasörler oluşturulmuştur. Bu klasörlerde yer alan derslerin hiçbirini indirmedim. Klasörlerdeki HTML dosyalarının içinde göreceğiniz "İndir"deki OBS sistemi tarafından verilen linkler geçerliliğini yitirmiştir - yani dersi indirmeden önce yeniden program üzerinden
 ders dökümanlarını istemeniz gerekmektedir.
 
 Program 
