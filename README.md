@@ -12,6 +12,11 @@ python3 iucServerDownloader.py
 ```
 şeklinde çalışıtırılır. Bayraklama sistemi yoktur, yaparsanız çok şükela olur.
 
+## Arşiv!
+EBS.istanbulc.edu.tr sitesindeki ders içerik formu yazdırmada sorun yaşanmaktadır. Program ilgili bölüm bilgilerine buradan eriştiği için, program **çalışmamaktadır.**
+> POST https://ebs.istanbulc.edu.tr/Home/GetPrintData -> 500: Internal Server Error
+Düzeltecek kişilerin documentList() fonksiyonuna odaklanıp, sorunu orada çözmeleri programın çalışması için yeterlidir. Teşekkürler.
+
 ## Ders Kodları
 İstediğiniz bölümün dersini alabilir ve dökümanlarını indirebilirsiniz. Bölümlerin ders kodlarını bulmak için ebs.istanbulc.edu.tr adresine girin ve herhangi bir
 fakültedeki herhangi bir bölümün sayfasına erişin. Bu sayfada ders programı kısmına gelin ve müfredatın açıldığını gördüğünüzden emin olun.
